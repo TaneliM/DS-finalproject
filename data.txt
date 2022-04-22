@@ -1,0 +1,63 @@
+{
+    "continue": {
+        "plcontinue": "38357|0|Days_Like_This_(Krezip_album)",
+        "continue": "||"
+    },
+    "query": {
+        "normalized": [
+            {
+                "from": "mine",
+                "to": "Mine"
+            }
+        ],
+        "pages": {
+            "38357": {
+                "pageid": 38357,
+                "ns": 0,
+                "title": "Mine",
+                "links": [
+                    {
+                        "ns": 0,
+                        "title": "Abandoned Mine"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Alex Levinsky"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Anti-tank mine"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Antipersonnel mine"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Bangalore mine"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Blow (Ghinzu album)"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Christopher Simmons"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Cluster bomb"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Colorado School of Mines"
+                    },
+                    {
+                        "ns": 0,
+                        "title": "Data mining"
+                    }
+                ]
+            }
+        }
+    }
+}
